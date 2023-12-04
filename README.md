@@ -4,9 +4,10 @@
 
 ###
 
-<img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/1/0/3/7/257301_7c693.gif"  />
+<img align="right" height="150"  height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWszZWQ3aTBzZ2lmMnNvb3Vxb2gwamc3aHV1MWxhNjFkdm4xeG0wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 
 ###
+  <h3><strong>Stack & Technologies</strong></h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -34,7 +35,9 @@
 
 ###
 
-<div align="left">
+## How to reach me
+
+<div align="center">
   <a href="mailto:lonfark@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
