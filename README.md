@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oleksandr and I'm a front-end developer</h2>
-
-<h3 align="start">Architecting User Delight: Transformative Frontend Development for Next-Gen Web Experiences</h3>
+<h3 align="left">My name is Oleksandr. I am an undergraduate student at KPI University, Ukraine</h2>
 
 ###
 
