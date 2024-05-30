@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150"  height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWszZWQ3aTBzZ2lmMnNvb3Vxb2gwamc3aHV1MWxhNjFkdm4xeG0wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+<img align="right" height="120"  height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZkaGFsb3hncjdpbDdweWV0MW91OW11eDdtMmEzeWhodXMyMW45ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J7rKvGwnRgDTPOi43G/giphy.webp"  />
 
 ###
   <h3><strong>Stack & Technologies</strong></h1>
